@@ -1,0 +1,13 @@
+MAIN:
+
+MACHINE:
+On line 12, I stated a call to new Rotor[5] but am not sure why when i use
+instructions.length - 1, it doesn't return the correct value. The error is 
+stating that I haven't initialized the instructions but setting up Machine
+should already give instructions a definition
+
+ROTOR:
+
+PERMUTATION DATA:
+
+TEST:
